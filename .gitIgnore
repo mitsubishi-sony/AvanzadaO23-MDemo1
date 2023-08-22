@@ -1,0 +1,6 @@
+# Estos archivos no se incluiran en el repositorio
+New Text Document.txt
+*.tmp
+
+# Estas carpetas no se incluiran en el repositorio
+/node_modules
